@@ -1,0 +1,3 @@
+Mountain.jpg: https://www.pexels.com/photo/scenic-view-of-snow-capped-mountains-during-night-3408744/
+Lake.jpg: https://www.pexels.com/photo/beautiful-view-of-moraine-lake-2662116/
+Wave.jpg: https://www.pexels.com/photo/man-riding-surfboard-in-wavy-ocean-7925859/

@@ -1,0 +1,13 @@
+{
+  "name": "delaunifier",
+  "version": "1.0.0",
+  "description": "Simple script to manipulate images",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^2.10.1",
+    "delaunator": "^5.0.0",
+    "jimp": "^0.16.2"
+  }
+}
+
